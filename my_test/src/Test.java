@@ -6,10 +6,7 @@
  * To change this template use File | Settings | File Templates.
  */
 
-import org.apache.log4j.Logger;
-
 public class Test {
-    private final static Logger log = Logger.getLogger(Test.class);
 
 
 }
